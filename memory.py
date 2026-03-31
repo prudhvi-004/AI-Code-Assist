@@ -189,3 +189,8 @@ class MemoryManager:
                 "ts": row["ts"], "session": row["session"],
             })
         save_memory_index(self.index, self.meta)
+
+
+
+      
+        
